@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/abhishekkumar1017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekkumar1017" height="30" width="40" /></a>
 <a href="https://fb.com/abhishek sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi_sharma1017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_sharma1017" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@chaurasiyaboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chaurasiyaboy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chaurasiyaboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chaurasiyaboy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_732001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_732001" height="30" width="40" /></a>
 </p>
 
